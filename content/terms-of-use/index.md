@@ -4,56 +4,56 @@ date: 2025-03-31
 draft: false
 ---
 
-# Terms of Use
+# Imigomo Yokusebenzisa
 
-_Last updated: March 2025_
+**Kubuyekezwe: Mashi 2025**
 
-Welcome to BaoLiba! By accessing and using this website, you agree to the following terms:
-
----
-
-### 1. Content Usage
-
-Unless otherwise stated, all content on this website (including articles, images, and data) is created and shared by BaoLiba.  
-We believe in an open, free, and collaborative internet.  
-
-You are welcome to reference, share, or adapt our content—**as long as it’s done respectfully and within the boundaries of applicable laws** (such as proper attribution and non-commercial use, where required).
-
-If you're unsure or plan to use our content for commercial purposes, we kindly ask that you contact us first.
+Siyakwamukela e-BaoLiba! Ngokufinyelela nokusebenzisa le webhusayithi, uyavumelana nemigomo elandelayo:
 
 ---
 
-### 2. No Warranty
+## 1. Ukusetshenziswa Kokuqukethwe
 
-All content provided on this site is for informational purposes only.  
-We do not guarantee the accuracy, completeness, or fitness for any particular purpose.  
-Users access and use this website at their own risk.
+Ngaphandle uma kushiwo ngenye indlela, konke okuqukethwe kule webhusayithi (okuhlanganisa izindatshana, izithombe, nedatha) kudalwe futhi kwabelwana ngakho yi-BaoLiba.  
+Sikholelwa ku-inthanethi evulekile, yamahhala, nenobambiswano.
 
----
+Uyemukelwa ukukopisha, ukwabelana, noma ukuhlela okuqukethwe kwethu — inqobo nje uma kwenziwa **ngokuhlonipha** nangaphakathi kwemingcele yomthetho osebenzayo (njengokufaka umthombo nokusebenzisa okungeyona yezohwebo lapho kudingeka khona).
 
-### 3. External Links
-
-Some pages may contain links to third-party websites or embedded content (e.g. YouTube, social media).  
-We are not responsible for the content, privacy policies, or practices of any third-party websites.
+**Uma ungeqiniseki**, noma uhlela ukusebenzisa okuqukethwe kwethu **ngenhloso yokuhweba**, sicela usithinte kuqala.
 
 ---
 
-### 4. Changes to Terms
+## 2. Azikho Izitifiketi
 
-We may update these terms at any time without prior notice.  
-Please check this page periodically to stay informed.
-
----
-
-### 5. Credits & Acknowledgements
-
-This website is proudly built with [HUGO](https://gohugo.io/), using the free [LoveIt](https://themes.gohugo.io/themes/loveit/) theme.  
-Images are sourced from [Pexels](https://pexels.com), and article content is developed with the assistance of [ChatGPT](https://openai.com/chatgpt).  
-We are grateful for these amazing open tools and communities.
+Konke okuqukethwe okutholakala kule sayithi kunikezwa **ngenhloso yolwazi kuphela**.  
+Asiqinisekisi ukunemba, ukuphelela, noma ukufaneleka kwalo nganoma iyiphi injongo ethile.  
+Abasebenzisi basebenzisa le webhusayithi **ngengozi yabo siqu**.
 
 ---
 
-### 6. Contact
+## 3. Izixhumanisi Zangaphandle
 
-If you have any questions or concerns about these terms, please contact us at: **info@baoliba.com**
+Amanye amakhasi angase abe nezixhumanisi eziya kumawebhusayithi ezinkampani zangaphandle noma okuqukethwe okufakwe ngaphakathi (isb. i-YouTube, imithombo yezokuxhumana).  
+**Asinawo umthwalo wemfanelo** ngokuqukethwe, izinqubomgomo zobumfihlo, noma imikhuba yala mawebhusayithi angaphandle.
 
+---
+
+## 4. Izinguquko Kwemigomo
+
+Singase sibuyekeze le migomo noma yinini **ngaphandle kwesaziso sangaphambili**.  
+Sicela uhlale ubheka leli khasi ngezikhathi ezithile ukuze uhlale unolwazi olusha.
+
+---
+
+## 5. Iminikelo & Ukubonga
+
+Le webhusayithi yakhiwe **ngokuzethemba nge-HUGO**, isebenzisa **itimu yamahhala i-LoveIt**.  
+Izithombe zithathwe ku-**Pexels**, futhi okuqukethwe kwezindatshana kuthuthukiswe ngosizo luka-**ChatGPT**.  
+Siyabonga kakhulu kula mathuluzi avulekile nomphakathi wawo omuhle.
+
+---
+
+## 6. Xhumana Nathi
+
+Uma unemibuzo noma ukukhathazeka mayelana nale migomo, sicela usithinte ku:  
+**info@baoliba.com**
