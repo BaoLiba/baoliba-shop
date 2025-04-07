@@ -4,41 +4,45 @@ date: 2025-03-31
 draft: false
 ---
 
-# Contact Us
+# Xhumana Nathi
 
-Thank you for visiting BaoLiba!
+**Siyabonga ngokuvakashela i-BaoLiba!**
 
-If you have any questions, business inquiries, partnership proposals, or just want to say hello — feel free to reach out. We’d love to hear from you.
+Uma unemibuzo, imibuzo yebhizinisi, iziphakamiso zokubambisana, noma ufuna nje ukusho “sawubona” — zizwe ukhululekile ukusithinta. Siyajabula ukukuzwa.
 
 ---
 
-### 📍 Our Location  
-**BaoLiba** is proudly based in **Changsha, China**.
+## 📍 Indawo Yethu
 
-**Office Address:**  
+**I-BaoLiba** iqhosha ngokuba sezindlini e-**Changsha, e-China.**
+
+Ikheli leHhovisi:  
 Room B1, Xinchanghai Center,  
 Lugu, Yuelu District, Changsha City,  
-Hunan Province, China
+Hunan Province, China  
 
-(中文地址：湖南省长沙市岳麓区麓谷新长海中心B1栋)
+_(Ikheli lesiShayina: 湖南省长沙市岳麓区麓谷新长海中心B1栋)_
 
 ---
 
-### 📧 Email  
-For all inquiries, please contact:  
+## 📧 I-imeyili
+
+**Zonke izicelo** noma imibuzo, sicela uthumele ku:  
 **info@baoliba.com**
 
-We typically respond within 1–2 business days.
+Sivame ukuphendula phakathi **kwezinsuku zokusebenza eziyi-1 kuya kwezi-2.**
 
 ---
 
-### 💬 Languages  
-We speak **English** and **Chinese**, and we work with content in over 12 languages.
+## 💬 Izilimi
+
+Sikhuluma **isiNgisi** nesiShayina, futhi sisebenza nokuqukethwe ngezilimi ezingaphezu kwe-12.
 
 ---
 
-### 📢 Let’s Collaborate  
-Whether you're a brand, influencer, agency, or platform —  
-If you're interested in cross-border influencer marketing, localization, or content production, we're happy to connect.
+## 📢 Masingene Ebambisaneni
 
-Let’s grow globally, together.
+Noma ungumkhiqizo, umthonyayo, i-ejensi, noma ipulatifomu —  
+Uma unentshisekelo ku-**influencer marketing yomhlaba wonke**, **ukulocaliza**, noma **ukukhiqizwa kokuqukethwe**, siyajabula ukuxhumana.
+
+**Masingakhule ndawonye — emhlabeni wonke.**
