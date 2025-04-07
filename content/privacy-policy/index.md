@@ -4,29 +4,38 @@ date: 2025-03-31
 draft: false
 ---
 
-**Privacy Policy**
+# Inqubomgomo Yobumfihlo
 
-Last updated: [March 2025]
+**Kubuyekezwe: [Mashi 2025]**
 
-This blog is operated by BaoLiba. We respect your privacy and are committed to keeping this site simple and transparent.
+Leli bhulogi liphethwe yi-BaoLiba. Siyahlonipha ubumfihlo bakho futhi sizibophezele ekwenzeni le sayithi ibe lula futhi icace.
 
-**1. What we collect**
+---
 
-We do not collect personal data directly.  
-We do not offer login, comment, or registration features.
+## 1. Esikuhlanganisayo
 
-However, we may use third-party services such as Google Analytics to help understand traffic behavior. These services may use cookies or anonymized IP tracking.
+Asiqoqi idatha yomuntu uqobo ngokuqondile.  
+Asinikezi izici zokungena ngemvume, ukuphawula, noma ukubhalisela.
 
-**2. Cookies**
+Kodwa-ke, singasebenzisa amasevisi ezinkampani zangaphandle njengokuthi **Google Analytics** ukuze siqonde indlela yokuziphatha kwabavakashi. Lawa masevisi angase asebenzise ama-cookies noma ukulandelela amakheli e-IP ngendlela engakhombisi ukuthi ungubani.
 
-Some pages may use cookies via third-party plugins or embedded media (e.g., videos, maps).  
-You can disable cookies in your browser settings.
+---
 
-**3. External links**
+## 2. Ama-Cookies
 
-Our site may contain links to other websites. We are not responsible for their privacy practices.
+Amanye amakhasi angase asebenzise ama-cookies ngenxa yezinhlanganisela zezinkampani zangaphandle noma okuqukethwe okufakwe ngaphakathi (isb. amavidiyo, amamephu).  
+Ungakwazi ukukhubaza ama-cookies kuzilungiselelo zesiphequluli sakho.
 
-**4. Contact**
+---
 
-If you have any questions, feel free to contact us at: info@baoliba.com
+## 3. Izixhumanisi Zangaphandle
+
+Iwebhusayithi yethu ingase ibe nezixhumanisi eziholela kwezinye izindawo zewebhu. Asinawo amandla noma umthwalo wemfanelo mayelana nezindlela zabo zobumfihlo.
+
+---
+
+## 4. Xhumana Nathi
+
+Uma unemibuzo noma ukukhathazeka mayelana nobumfihlo, ungaxhumana nathi ku: **info@baoliba.com**
+
 
