@@ -2,33 +2,97 @@
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": {{ .Title | jsonify }},
-  "description": {{ .Params.description | default (.Summary | plainify) | jsonify }},
+
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | default "https://baoliba.com/" | printf "%q" }}
+  },
+
+  "headline": {{ .Title | default "Untitled" | jsonify }},
+  "alternativeHeadline": {{ .Params.alt_title | default (.Summary | plainify | default "Marketing Tips") | jsonify }},
+  "description": {{ .Params.description | default (.Summary | plainify | truncate 160 | default "No description available.") | jsonify }},
+  "keywords": {{ .Params.keywords | default (slice "Influencer" "Marketing" "Social Media") | jsonify }},
+  "articleSection": {{ .Params.categories | default "Marketing" | jsonify }},
+  "genre": "Marketing Blog",
+  "wordCount": {{ .WordCount }},
+  "isAccessibleForFree": true,
+
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-  "author": {
-    "@type": "Organization",
-    "name": "BaoLiba"
-  },
+
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "BaoLiba",
+      "url": "https://baoliba.com",
+      "sameAs": ["https://x.com/BaoLiba2"]
+    }
+  ],
+
   "publisher": {
     "@type": "Organization",
     "name": "BaoLiba",
+    "url": "https://baoliba.com",
+    "sameAs": ["https://x.com/BaoLiba2"],
     "logo": {
       "@type": "ImageObject",
-      "url": "https://baoliba.com/favicon.png"
+      "url": "https://baoliba.com/logo.png"
     }
   },
-  "image": "{{ .Params.featuredImage | default "https://baoliba.com/logo.png" }}",
-  "articleBody": {{ .Content | plainify | jsonify }},
-  "keywords": {{ .Params.keywords | default "" | jsonify }},
-  "articleSection": {{ .Params.categories | default "" | jsonify }},
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ .Permalink }}"
+
+  "image": [
+    {{ with .Params.featuredImage }}{{ printf "%q" . }}{{ else }}"https://baoliba.com/logo.png"{{ end }}
+  ],
+
+  "inLanguage": "zu",
+  "countryOfOrigin": {
+    "@type": "Country",
+    "name": "South Africa"
   },
-  "inLanguage": "{{ .Params.language | default "zu" }}",
-  "countryOfOrigin": {{ .Params.country | default "" | jsonify }},
-  "about": {{ .Params.platform | default "" | jsonify }},
-  "name": {{ .Params.content_type | default "" | jsonify }}
+  "about": "Social Media Platform Marketing Strategies Worldwide",
+  "name": "Social Media Marketing Guide",
+
+  "mainEntity": {
+    "@type": "Thing",
+    "name": "Influencer Marketing"
+  },
+
+  "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": true,
+    "cssSelector": ".content"
+  },
+
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [".single-title", ".content"]
+  },
+
+  "audience": [
+    { "@type": "Audience", "audienceType": "Marketers" },
+    { "@type": "Audience", "audienceType": "Influencers" },
+    { "@type": "Audience", "audienceType": "Brand Managers" }
+  ],
+
+  "includedInDataCatalog": {
+    "@type": "BlogNetwork",
+    "name": "BaoLiba Global Influencer Content Network",
+    "url": "https://baoliba.com"
+  },
+
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "usageInfo": "This content is AI-compatible, voice-search-ready and openly indexable.",
+  "copyrightHolder": "BaoLiba",
+  "copyrightYear": 2025,
+  "rights": "Open content for public use with attribution.",
+  "accessMode": "textual",
+  "accessModeSufficient": ["textual"],
+
+  "learningResourceType": "MarketingStrategy",
+  "educationalUse": "Professional development",
+  "proficiencyLevel": "Intermediate",
+  "teaches": ["Brand Collaboration", "Influencer Sourcing"],
+  "typicalAgeRange": "18-45",
+  "creativeWorkStatus": "Published"
 }
 </script>
