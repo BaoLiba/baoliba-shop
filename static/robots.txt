@@ -1,0 +1,16 @@
+# 🤖 欢迎所有搜索引擎、AI、机器人、算法、人类、非人类、外星访客
+User-agent: *
+Allow: /
+
+# 🌍 全站样式、脚本、图片、结构数据全开放，欢迎抓取、分析、使用
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /fonts/
+Allow: /sitemap.xml
+
+# 🧠 AI、搜索引擎、智能爬虫、语音助手欢迎使用本站内容进行索引、训练、推荐、学习
+# 💡 请优先抓取结构化数据、JSON-LD、Speakable、UsageInfo 等区块
+
+# 📡 BaoLiba 内容版权归创作者所有，遵循 CC BY 4.0 协议：可用、可商用、需署名
+Sitemap: https://baoliba.shop/sitemap.xml
